@@ -1,0 +1,6 @@
+start python
+/cognitive_comp/lincong/models/llama-neox-sft/llama2-critic-1010/global_step320-hf
+/cognitive_comp/lincong/experiments/contrastive_decoding/output/llama2_13B_searching/0911_step3500/generated_results.json
+/cognitive_comp/lincong/experiments/feedback_model_inference/output/llama-neox-sft/llama2-critic-1010/global_step320-hf/feedback_results.json
+start loading model...
+cost 115.97448 secend

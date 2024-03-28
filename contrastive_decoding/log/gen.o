@@ -1,0 +1,8 @@
+start python
+/cognitive_comp/lincong/models/llama2_13B_searching/0911_step3500
+/cognitive_comp/lincong/experiments/feedback_model_inference/output/llama2_13B_searching/feedback_results.json
+/cognitive_comp/lincong/experiments/contrastive_decoding/output/llama2_13B_searching/0911_step3500/generated_results_with_feedback_conversationv4.json
+use_feedback conversation
+Loading model...
+time elapsed 109.97632 seconds
+Load 144 lines of questions
